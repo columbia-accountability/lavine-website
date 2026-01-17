@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://jehjohnson.com/sitemap.xml
+Sitemap: https://jonathanslevine.com/sitemap.xml
